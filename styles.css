@@ -1,0 +1,112 @@
+.PVHeader {
+    text-align: center;
+    color: #182952;
+    margin: 100px;   
+    padding: 0;}
+
+body{
+    background-color: aliceblue;
+    display: grid;}
+
+nav{
+    justify-content: space-between;
+    background: #182952;
+    height: 50px;
+    text-align: center;
+    align-content: space-between;
+    border-spacing: 50px; 
+    margin: 0px;
+    padding 0px;}    
+    
+.buttons{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 0px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 500}
+
+.Home_Button {
+    padding: 0px;
+    height: 50px;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;}    
+
+.Button1 {
+    height: 50px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;}    
+
+.Button2 {
+    height: 50px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;}   
+
+.Button3 {
+    height: 50px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;}   
+
+.button_text{
+    height: 50px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;}  
+    
+    
+    
+    
+    
+    
+
+
+ 
+    
+    
+
