@@ -86,6 +86,20 @@ nav{
     font-weight:500;
     cursor: pointer;}   
 
+.Button4{
+    height: 50px
+    padding: 0;
+    background: #182952;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    cursor: pointer;
+}
+
 .button_text{
     height: 50px
     padding: 0;
@@ -99,14 +113,3 @@ nav{
     font-weight:500;
     cursor: pointer;}  
     
-    
-    
-    
-    
-    
-
-
- 
-    
-    
-
